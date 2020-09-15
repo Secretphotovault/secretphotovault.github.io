@@ -1,12 +1,10 @@
 ---
 layout: page
-title: What's New
+title: Contact Us
 include_in_header: true
 ---
 
-# Changelog
-Here I'll keep a changelog for my app.
-
-### `Initial Release`
+### `Contact Us`
 # **Version 1.0.0**
-All is prepared for Pre-Order on App Store
+How can we help you?
+If you have any questions at all, about your data or any other query, kindly [contact us](mailto:photolock@protonmail.com) We are happy to answer everything.
