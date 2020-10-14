@@ -74,7 +74,7 @@ Photolock has no ability to control the Content you may upload, post or otherwis
 Photolock will terminate a user’s access to the Service if, under appropriate circumstances, the user is determined to be a repeat infringer.
 Photolock reserves the right to decide whether Content violates these Terms of Service for reasons other than copyright infringement, such as, but not limited to, pornography, obscenity. Photolock may at any time, without prior notice and in its sole discretion, remove such Content and/or terminate a user’s account for submitting such material in violation of these Terms of Service.
 
-8. Google Analytics Tracking
+8. Google Analytics
 
 Photolock can use different Analytics tracking code to support Display Advertising. The service we have implemented is the Google Analytics.
 Photolock will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless Photolock have robust notice of, and the your prior affirmative (i.e., opt-in) consent to, that merger. We encourage you to read more on Google Analytics opt-out browser add-on.
